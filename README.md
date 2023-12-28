@@ -1,19 +1,19 @@
-# Campeonato de Futebol - Java Console App
+# Football Championship - Java Console App
 
-Bem-vindo ao Menu do Campeonato de Futebol! Este é um simples aplicativo de console Java que oferece informações sobre a Tabela de Classificação, Tabela de Artilheiros e Horários dos Jogos de um campeonato fictício. O aplicativo utiliza a entrada do usuário para navegar pelas diferentes opções do menu.
+Welcome to the Football Championship Menu! This is a simple Java console application that provides information about the Leaderboard, Top Scorers Table and Game Schedules for a fictional championship. The app uses user input to navigate through different menu options.
 
-## Funcionalidades
+## Functionalities
 
-1. **Tabela de Classificação:** Apresenta a classificação dos times no campeonato com base nos pontos acumulados.
+1. **Leadership Table:** Displays the classification of teams in the championship based on accumulated points.
 
-2. **Tabela de Artilheiros:** Exibe a lista dos melhores marcadores, mostrando o número de gols de cada jogador.
+2. **Scorer Table:** Displays the list of top scorers, showing the number of goals scored by each player.
 
-3. **Horários dos Jogos:** Informa os horários dos próximos jogos.
+3. **Game Times:** Informs the times of the next games.
 
-## Como Usar
+## How to use
 
-1. Execute o programa.
-2. Escolha uma opção no menu principal (1, 2 ou 3).
-3. Explore as diferentes funcionalidades.
-4. Digite "0" a qualquer momento para voltar ao Menu Inicial.
-5. Siga as instruções apresentadas no console.
+1. Run the program.
+2. Choose an option from the main menu (1, 2 or 3).
+3. Explore different features.
+4. Enter "0" at any time to return to the Home Menu.
+5. Follow the instructions displayed on the console.
