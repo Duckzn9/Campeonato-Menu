@@ -1,4 +1,3 @@
-# Campeonato-Menu
 # Campeonato de Futebol - Java Console App
 
 Bem-vindo ao Menu do Campeonato de Futebol! Este é um simples aplicativo de console Java que oferece informações sobre a Tabela de Classificação, Tabela de Artilheiros e Horários dos Jogos de um campeonato fictício. O aplicativo utiliza a entrada do usuário para navegar pelas diferentes opções do menu.
